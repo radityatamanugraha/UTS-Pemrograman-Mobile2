@@ -101,4 +101,4 @@ node server.js
 # Output
 
 
-![gambar](ss_hasil_uts_pemrograman_web2/ss1_pemrograman_web2.jpg)
+![gambar](ss_hasil_uts_pemrograman_web2/ss1_pemrograman_web2.png)
